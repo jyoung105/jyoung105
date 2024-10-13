@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoung105&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoung105&layout=compact)](https://github.com/jyoung105/github-readme-stats)
 
 <!--
 **jyoung105/jyoung105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
