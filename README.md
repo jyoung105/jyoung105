@@ -3,7 +3,7 @@
 I have huge interest to diffusion models.
 Let's accelerate the explosion of creativity.
 
-email: jeongmin1604@gmail.com
+📧 email : jeongmin1604@gmail.com
 
 <!--
 **jyoung105/jyoung105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
