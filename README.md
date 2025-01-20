@@ -4,13 +4,13 @@ I have huge interest to diffusion models.
 Let's accelerate the explosion of creativity.
 
 
-## 📜 Link
+### 🔗 Link
 
 - CV: [한국어]() / [English]()
 - SNS: [LinkedIn](https://www.linkedin.com/in/jyoung105) / [Tech Blog]()
 
 
-## ⚡ Projects
+### 🚀 Projects
 
 **Web Service**
 
@@ -20,7 +20,7 @@ Let's accelerate the explosion of creativity.
 
 - Diffusion (**Github**) [ [link]() / [git]() ] `python`
 
-## Stats
+### Stats
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jyoung105&hide=contribs,prs&count_private=true&show_icons=true&theme=gruvbox_light" />
 
