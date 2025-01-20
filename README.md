@@ -3,7 +3,29 @@
 I have huge interest to diffusion models.
 Let's accelerate the explosion of creativity.
 
-📧 email : jeongmin1604@gmail.com
+
+## 📜 Link
+
+- CV: [한국어]() / [English]()
+- SNS: [LinkedIn](https://www.linkedin.com/in/jyoung105) / [Tech Blog]()
+
+
+## ⚡ Projects
+
+**Web Service**
+
+- Personal blog (**Github**) [ [link]() / [git]() ] `Next.js`, `MDX`, `tailwindcss`, `shadcn/ui`
+
+**AI**
+
+- Diffusion (**Github**) [ [link]() / [git]() ] `python`
+
+## Stats
+
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jyoung105&hide=contribs,prs&count_private=true&show_icons=true&theme=gruvbox_light" />
+
+
+
 
 <!--
 **jyoung105/jyoung105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
