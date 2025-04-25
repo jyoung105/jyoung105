@@ -1,7 +1,7 @@
-## Hi, I’m Tony Lee. 👋  
+## Hi, I’m Tony Lee 👋  
 
-- I have huge interest to diffusion models.
-- Let's accelerate the explosion of creativity.
+- I have huge interest to diffusion models
+- Let's accelerate the explosion of creativity
 
 <!-- ### 🚀 Projects
 
