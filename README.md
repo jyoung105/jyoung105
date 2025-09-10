@@ -2,6 +2,7 @@
 
 - I have huge interest to diffusion models
 - Let's accelerate the explosion of creativity
+- Now, Reelay, AI design agent
 
 <!-- ### 🚀 Projects
 
