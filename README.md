@@ -1,8 +1,9 @@
-## Hi, I’m Tony Lee 👋  
+# 👋 Hi, I'm Tony
 
-- I have huge interest to diffusion models
-- Let's accelerate the explosion of creativity
-- Now, Reelay, AI design agent
+Huge interest in **diffusion models**  
+Let’s accelerate the **explosion of creativity** ✨  
+
+Now building **Reelay**, the **AI design agent** for creative generation.
 
 <!-- ### 🚀 Projects
 
