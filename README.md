@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tony
 
 Huge interest in **diffusion models**  
-Let’s accelerate the **explosion of creativity** ✨  
+Let’s accelerate the **explosion of creativity**
 
 Now building **Reelay**, the **AI design agent** for creative generation.
 
