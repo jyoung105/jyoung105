@@ -3,7 +3,7 @@
 Huge interest in **diffusion models**  
 Let’s accelerate the **explosion of creativity**
 
-Now building **Bulliad**, the **AI design agent** for creative generation.
+Look around what I can do with agents.
 
 <!-- ### 🚀 Projects
 
