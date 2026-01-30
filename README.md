@@ -1,36 +1,25 @@
-# 👋 Hi, I'm Tony
+# Tony
 
-Huge interest in **diffusion models**  
-Let’s accelerate the **explosion of creativity**
+I build things with AI. Vibe coding is my default mode.
 
-Look around what I can do with agents.
+## What I Do
 
-<!-- ### 🚀 Projects
+Ship fast, iterate faster. I prompt, Claude codes, we ship.
 
-**Web Service**
+- Exploring multi-agent systems, AI skills, and whatever's next
+- Writing about AI trends in KR/EN
 
-- Personal blog (**Github**) [ [link]() / [git]() ] `Next.js`, `MDX`, `tailwindcss`, `shadcn/ui`
+## Current Vibes
 
-**AI**
+- Claude Code as my pair programmer
+- Context engineering > prompt engineering
+- Building in public, learning in public
 
-- Diffusion (**Github**) [ [link]() / [git]() ] `python`
+## Find Me
 
-### Stats
+- [LinkedIn](https://linkedin.com/in/jyoung105) — AI insights in Korean
+- [Blog](https://tonylee.im) — longer thoughts
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jyoung105&hide=contribs,prs&count_private=true&show_icons=true&theme=gruvbox_light" /> -->
+---
 
-
-<!--
-**jyoung105/jyoung105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"The best code is the code you didn't have to write."*
